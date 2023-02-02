@@ -1,0 +1,4 @@
+com/vuzix/blade/devkit/sensors_sample/BuildConfig.java
+ com.vuzix.blade.devkit.sensors_sample.BuildConfig
+com/vuzix/blade/devkit/sensors_sample/MainActivity.java
+ com.vuzix.blade.devkit.sensors_sample.MainActivity

@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.vuzix:hud-actionmenu:1.13.0] C:\Users\Zak\.gradle\caches\transforms-3\e408650d23cbf013adc3d4a868a7b246\transformed\hud-actionmenu-1.13.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.vuzix:hud-resources:1.8.0] C:\Users\Zak\.gradle\caches\transforms-3\9d293cc435ff922361f74a50fd858c6a\transformed\hud-resources-1.8.0\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:5:5-19:19
+	android:supportsRtl
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.vuzix.blade.devkit.sensors_sample.MainActivity
+ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:12:19-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+MERGED from [com.vuzix:hud-actionmenu:1.13.0] C:\Users\Zak\.gradle\caches\transforms-3\e408650d23cbf013adc3d4a868a7b246\transformed\hud-actionmenu-1.13.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.vuzix:hud-actionmenu:1.13.0] C:\Users\Zak\.gradle\caches\transforms-3\e408650d23cbf013adc3d4a868a7b246\transformed\hud-actionmenu-1.13.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.vuzix:hud-resources:1.8.0] C:\Users\Zak\.gradle\caches\transforms-3\9d293cc435ff922361f74a50fd858c6a\transformed\hud-resources-1.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.vuzix:hud-resources:1.8.0] C:\Users\Zak\.gradle\caches\transforms-3\9d293cc435ff922361f74a50fd858c6a\transformed\hud-resources-1.8.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zak\Downloads\SampleTemp\B2-vuzix-devkit-sensors\vuzix-blade-devkit-sensors-sample_9_21\app\src\main\AndroidManifest.xml
